@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Ayalalberto
+- 👀 I’m interested in Python, Julia, ML and DL
+- 🌱 I’m currently learning Physics and Julia
+- 💞️ I’m looking to collaborate on any proyect aligned with my interests
+- 📫 How to reach me via email
+- ⚡ Fun fact: ...
